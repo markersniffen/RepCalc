@@ -1,0 +1,13 @@
+html, body {
+
+}
+
+#questions {
+	display: flex;
+	flex-direction: column;
+
+}
+
+#results {
+
+}
